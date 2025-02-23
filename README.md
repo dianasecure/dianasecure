@@ -14,14 +14,6 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/@22drs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@22drs" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/44hpou9wl95nljtt4v2mzx126">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=44hpou9wl95nljtt4v2mzx126&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <!--
 **dianasecure/dianasecure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
