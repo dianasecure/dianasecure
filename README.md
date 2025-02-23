@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there! 👋 
+## I am a college student, specializing in Computer Science. I love learning new things and building projects that challenge me to grow as a developer. 😊
 
 <!--
 **dianasecure/dianasecure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
